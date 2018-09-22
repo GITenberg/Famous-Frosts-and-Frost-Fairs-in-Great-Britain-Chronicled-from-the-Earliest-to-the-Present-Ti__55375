@@ -1,5 +1,8 @@
 _repo: Famous-Frosts-and-Frost-Fairs-in-Great-Britain-Chronicled-from-the-Earliest-to-the-Present-Ti__55375
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55375-h/images/cover.jpg
 creator:
   author:
     agent_name: Andrews, William
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8969'
     url: http://www.gutenberg.org/2009/agents/8969
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55375#Famous-Frosts-and-Frost-Fairs-in-Great-Britain-Chronicled-from-the-Earliest-to-the-Present-Ti_
 gutenberg_issued: '2017-08-17'
 gutenberg_type: Text
 identifiers:
